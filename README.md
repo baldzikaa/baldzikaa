@@ -2,6 +2,8 @@
 <h3 align="center">That one guy.</h3>
 
 - My frameworks and tools are **Paper/Spigot API & Skript.**
+- No, I won't make you a plugin for free.
+- No, I won't buy you a coffee.
 
 <p align="left">
 </p>
