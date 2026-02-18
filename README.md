@@ -4,7 +4,6 @@
 - My frameworks are **Paper/Spigot API & Skript.**
 - No, I **won't** make you a plugin for free.
 - No, I **won't** buy you a coffee.
-- Looking at you **Skullians**.
 
 <p align="left">
 </p>
