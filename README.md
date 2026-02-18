@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi! I'm baldzikaa</h1>
-<h3 align="center">That one guy.</h3>
+<h1 align="center">👋 Hey! I'm baldzikaa</h1>
+<h3 align="center">Just a guy.</h3>
 
 - My frameworks are **Paper/Spigot API & Skript.**
 - No, I **won't** make you a plugin for free.
