@@ -5,12 +5,5 @@
 - No, I **won't** make you a plugin for free.
 - No, I **won't** buy you a coffee.
 
-Currently fighting an illness.
-Symptoms:
-- Vomitting
-- Headaches
-- Bleeding
-- Abdominal pain
-and more.
-
+Currently sick.
 Will not be as active.
