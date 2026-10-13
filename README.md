@@ -18,8 +18,7 @@ i make minecraft plugins for paper and folia, discord bots, websites, and whatev
 
 - lead dev at **PhantomDev**, also dev for **BonkMC**, **Lifesteal**, **MCDuels** and **BatSMP**
 - mostly economies, pvp, events and quests. everything i write runs on folia too
-- my stuff is free unless i tell you otherwise
-- no, i **won't** buy you a coffee
+- my stuff is free unless i tell you otherwise. i do it for the love of the game.
 
 ---
 
