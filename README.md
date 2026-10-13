@@ -133,36 +133,6 @@ i make minecraft plugins for paper and folia, discord bots, websites, and whatev
 
 ---
 
-### phantom plugins
-
-private, but there are demos on [baldzika.win](https://baldzika.win/#work). all of them work on paper and folia.
-
-| plugin | what it does |
-| :-- | :-- |
-| **PhantomCoinFlips** | gui coinflips, hooks into the economy, per-player stats and cooldowns |
-| **PhantomBounty** | put bounties on people and claim them from a gui |
-| **PhantomKits** | kits with previews, cooldowns and perms, editable in game |
-| **PhantomInvest** | investments that pay out over time |
-| **PhantomOrders** | post item orders, other players fill them for money |
-| **PhantomKoth** | koth events with capture zones, timers and rewards |
-| **PhantomKillstreaks** | killstreak tracking with milestone rewards |
-| **PhantomQuests** | quests with objectives and a menu to track them |
-| **PhantomCommunityGoals** | server wide goals with rewards at each milestone |
-| **PhantomCombat** | combat tagging and pvp cooldowns |
-| **PhantomGens** | gens that make items over time, tied into the economy |
-
-### open source
-
-| repo | what it is | lang |
-| :-- | :-- | :-: |
-| [**obsidian glow**](https://github.com/baldzikaa/mcsets-obsidian-glow-theme) | free mcsets store theme with custom animations and layout | ![Twig](https://img.shields.io/badge/-twig-bacf29?style=flat-square&logo=twig&logoColor=black) |
-| [**catalyst**](https://github.com/baldzikaa/mcsets-catalyst-theme) | another free mcsets store theme | ![Twig](https://img.shields.io/badge/-twig-bacf29?style=flat-square&logo=twig&logoColor=black) |
-| [**StreamLink**](https://github.com/baldzikaa/StreamLink) | | ![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| [**Panes**](https://github.com/baldzikaa/Panes) | | ![Java](https://img.shields.io/badge/-java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [**MCDuelsRankTaggerFabric**](https://github.com/baldzikaa/MCDuelsRankTaggerFabric) | fabric mod for mcduels rank tags | ![Java](https://img.shields.io/badge/-java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-
----
-
 ### stats
 
 <div align="center">
