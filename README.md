@@ -67,7 +67,9 @@ i make minecraft plugins for paper and folia, discord bots, websites, and whatev
 ![JDA](https://img.shields.io/badge/jda-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discorddotjs&logoColor=white)
 
-**backend**
+<details>
+<summary><b>backend</b></summary>
+<br>
 
 ![Ktor](https://img.shields.io/badge/ktor-%23087CFA.svg?style=for-the-badge&logo=ktor&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -77,7 +79,11 @@ i make minecraft plugins for paper and folia, discord bots, websites, and whatev
 ![Exposed](https://img.shields.io/badge/exposed-%237F52FF.svg?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**databases**
+</details>
+
+<details>
+<summary><b>databases</b></summary>
+<br>
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -86,7 +92,11 @@ i make minecraft plugins for paper and folia, discord bots, websites, and whatev
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**infra**
+</details>
+
+<details>
+<summary><b>infra</b></summary>
+<br>
 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -104,7 +114,11 @@ i make minecraft plugins for paper and folia, discord bots, websites, and whatev
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**tools**
+</details>
+
+<details>
+<summary><b>tools</b></summary>
+<br>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vs%20code-%230078D7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -115,6 +129,7 @@ i make minecraft plugins for paper and folia, discord bots, websites, and whatev
 ![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+</details>
 
 ---
 
